@@ -1,6 +1,6 @@
 # vrc_censored
 
-VRChat Avatar
+VRChat 3D Avatar(FBX)
 
 Lobotomy Corporation Character 
 
